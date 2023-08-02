@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+.london-image {
+    width:100%;
+}
+
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+
+}
+
+
+.top-container {
+    background-color: #E3FDFD;
+    position: relative;
+    padding-top: 30px;
+}
+
+
+.title-name {
+    font-size: 125%;
+    position: relative;
+    top: 75px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+
+}
+
+.profile-pic {
+    width: 350px;
+
+}
+
+
+.middle-container {
+    background-color: #E3FDFD;
+    padding: 15px;
+}
+
